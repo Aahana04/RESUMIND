@@ -2,6 +2,8 @@
 
 AI Resume Analyzer is a web application that allows users to upload their resumes and receive an analysis based on various criteria, including ATS (Applicant Tracking System) compatibility, keyword matching, and overall score. The app provides visual feedback and suggestions to help users improve their resumes for job applications.
 
+![Header](Resumind.png)
+
 ## Features
 - Upload PDF resumes for instant analysis
 - ATS compatibility check with visual indicators
